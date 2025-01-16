@@ -4,7 +4,7 @@
 
 ### ✨ Contoh Penggunaan:
 - `localhost:3000` ➡️ `https://app.local`
-- `localhost:3001` ➡️ `https://hallo.local`
+- `localhost:3001` ➡️ `https://hallo.ugi`
 
 ---
 
