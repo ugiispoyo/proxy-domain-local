@@ -27,10 +27,11 @@
 
 4. **Jalankan Script: Gunakan command berikut untuk membuat proxy lokal:**
 
-    `./create-domain-local.sh localhost:3000 to app.local`
+    `./create-domain-local.sh 3000 app app.local`
 
-    `localhost:3000` ➡️ Ganti dengan aplikasi anda yang sedang berjalan. <br/>
-    `app.local` ➡️ Tentukan domain lokal yang anda inginkan.
+    `3000` ➡️ Port aplikasi anda yang sedang berjalan <br/>
+    `app` ➡️ Nama app anda <br />
+    `app.local` ➡️ Nama domain local yang anda mau 
 
 5. **Buka browser anda:**
     lalu ketikan `app.local`
