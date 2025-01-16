@@ -16,7 +16,7 @@
 2. **Install mkcert**
     Pastikan `homebrew` sudah terinstall
     <br>
-    a. install mkcert `brew install mkcert`
+    a. install mkcert `brew install mkcert` <br/>
     b. install CA Root Lokal `mkcert -install`
 
 
