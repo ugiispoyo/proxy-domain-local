@@ -11,7 +11,7 @@
 ## 📖 Cara Penggunaan
 
 1. **Instal Docker:**
-   Pastikan Docker sudah terinstal di laptop anda. Jika belum, silakan unduh dan instal Docker dari [situs resmi Docker](https://www.docker.com/).
+   Pastikan Docker sudah terinstal dilaptop anda. Jika belum, silahkan unduh dan instal Docker dari [situs resmi Docker](https://www.docker.com/).
 
 2. **Install mkcert**
     Pastikan `homebrew` sudah terinstall
