@@ -37,7 +37,6 @@
     lalu ketikan `app.local`
     
 <br/>
-<br/>
 
 ## 💡 Catatan:
 
@@ -45,8 +44,6 @@
 2. Pastikan aplikasi Anda sudah berjalan di port yang sesuai sebelum menjalankan script. Domain lokal yang Anda buat akan otomatis tersedia dengan dukungan HTTPS.
 3. Sementara hanya tersedia untuk `macOS`
 
-<br />
-<br />
 <br />
 
 ## Happy Coding 😊
