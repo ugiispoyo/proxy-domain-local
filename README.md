@@ -38,7 +38,7 @@
     
 <br/>
 <br/>
-💡 Catatan:
+## 💡 Catatan:
 
 1. Pastikan local anda belum terinstall web server seperti `nginx, apache atau web server apapun` atau app apapun yg mengarah ke port `80`
 2. Pastikan aplikasi Anda sudah berjalan di port yang sesuai sebelum menjalankan script. Domain lokal yang Anda buat akan otomatis tersedia dengan dukungan HTTPS.
