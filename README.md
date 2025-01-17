@@ -2,7 +2,7 @@
 
 **Proxy Local Domain** memungkinkan Anda mengubah alamat `localhost` menjadi domain lokal yang sudah dilengkapi dengan SSL (HTTPS) dengan bantuan Docker.
 
-### ✨ Contoh Penggunaan:
+## ✨ Contoh Penggunaan:
 - `localhost:3000` ➡️ `https://app.local`
 - `localhost:3001` ➡️ `https://hallo.ugi`
 
@@ -44,4 +44,4 @@
 2. Pastikan aplikasi Anda sudah berjalan di port yang sesuai sebelum menjalankan script. Domain lokal yang Anda buat akan otomatis tersedia dengan dukungan HTTPS.
 3. Sementara hanya tersedia untuk `macOS`
 
-### Happy Coding 😊
+## Happy Coding 😊
