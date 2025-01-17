@@ -1,6 +1,6 @@
 # 🚀 Proxy Local Domain
 
-**Proxy Local Domain** memungkinkan Anda mengubah banyak alamat `localhost` menjadi domain lokal yang sudah dilengkapi dengan SSL (HTTPS) dengan bantuan Docker.
+**Proxy Local Domain** memungkinkan anda mengubah alamat `localhost` menjadi domain lokal yang sudah dilengkapi dengan SSL (HTTPS) dengan bantuan Docker.
 
 ## ✨ Contoh Penggunaan:
 - `localhost:3000` ➡️ `https://app.local`
