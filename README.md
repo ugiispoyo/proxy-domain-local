@@ -34,7 +34,7 @@
     `app.local` ➡️ Nama domain local yang anda mau 
 
 5. **Buka browser anda:**
-    lalu ketikan `app.local`
+    lalu ketik `https://app.local`
     
 <br/>
 
